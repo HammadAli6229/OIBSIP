@@ -1,5 +1,7 @@
 # OIBSIP
 ## 3 PROJECTS
+## 1) BMI Calculator | Randon Password Generator | Chat Application
+
 ## 1) BMI Calculator
 
 ### Beginner Version: Command-line BMI Calculator
