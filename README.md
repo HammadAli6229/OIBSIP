@@ -1,6 +1,6 @@
 # OIBSIP
 ## 3 PROJECTS
-### 1) BMI Calculator
+## 1) BMI Calculator
 
 ### Beginner Version: Command-line BMI Calculator
 <br>
@@ -53,15 +53,15 @@
 <br>
 •	Separation of concerns through function definitions (e.g., calculate_bmi, classify_bmi) for clarity and modularity.
 
-### 2) Random Password Generator
+## 2) Random Password Generator
 
-#### Beginner Version: Command-Line Password Generator
+### Beginner Version: Command-Line Password Generator
 
-##### Description
+#### Description
 <br>
 The command-line password generator is a simple Python script that generates random passwords based on user-defined criteria such as length and character types (letters, numbers, symbols). Users can specify the length of the password and choose whether to include uppercase letters, numbers, and symbols.
 
-##### Features
+#### Features
 <br>
 •	User-defined password length
 <br>
@@ -88,8 +88,8 @@ The advanced password generator features a graphical user interface (GUI) built 
 <br>
 •	Button to copy the password to clipboard
 
-### 3) Chat Application
-
+## 3) Chat Application
+###Beginner Version: Command-line BMI Calculator
 #### Description:
 <br>
 The basic text-based chat application allows two users to exchange messages in real-time using the command line. This application is ideal for beginners learning socket programming and client-server communication. It uses Python's socket and threading libraries to set up a simple client-server model.
@@ -131,17 +131,17 @@ The advanced GUI-based chat application provides a rich graphical interface for 
 •	These chat applications, designed for different levels of expertise, provide a comprehensive learning experience in network programming and GUI development using Python. The basic application focuses on fundamental concepts, while the advanced application incorporates additional features for a more complete and practical chat solution.
 <br>
 
-### How to Run the Applications in Jupyter Notebook
+## How to Run the Applications in Jupyter Notebook
 <br>
 
-#### Basic Text-Based Chat Application:
+### Basic Text-Based Chat Application:
 <br>
 •	Server Code: Run the server code cell to start the server.
 <br>
 •	Client Code: Run the client code cell to start the client.
 <br>
 	
-#### Advanced GUI-Based Chat Application:
+### Advanced GUI-Based Chat Application:
 <br>
 •	Server Code: Run the server code cell. Click the "Run Server" button to start the server GUI.
 <br>
