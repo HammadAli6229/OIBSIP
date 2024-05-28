@@ -1,11 +1,11 @@
 # OIBSIP
 ## 3 PROJECTS
 ### 1) BMI Calculator
-<br>
-Beginner Version: Command-line BMI Calculator
+
+### Beginner Version: Command-line BMI Calculator
 <br>
 
-Description:
+#### Description:
 <br>
 •	The code prompts the user to input their weight and height in kilograms and meters respectively.
 <br>
@@ -18,7 +18,7 @@ Description:
 •	Finally, it prints the calculated BMI and the corresponding category to the console.
 <br>
 
-Key Features:
+#### Key Features:
 <br>
 •	Input validation using a while loop and try-except block.
 <br>
@@ -27,10 +27,10 @@ Key Features:
 •	Utilization of a main function to organize the code execution.
 <br>
 
-Advanced Version: GUI BMI Calculator
+### Advanced Version: GUI BMI Calculator
 <br>
 
-Description:
+#### Description:
 <br>
 •	This code creates a graphical interface using Tkinter for the BMI calculator.
 <br>
@@ -43,7 +43,7 @@ Description:
 •	It handles input validation and displays error messages using Tkinter's messagebox.
 <br>
 
-Key Features:
+#### Key Features:
 <br>
 •	Use of Tkinter library for GUI development.
 <br>
@@ -52,16 +52,16 @@ Key Features:
 •	Integration of error handling with Tkinter's messagebox for a better user experience.
 <br>
 •	Separation of concerns through function definitions (e.g., calculate_bmi, classify_bmi) for clarity and modularity.
-<br>
+
 ### 2) Random Password Generator
-<br>
-Beginner Version: Command-Line Password Generator
-<br>
-Description
+
+#### Beginner Version: Command-Line Password Generator
+
+##### Description
 <br>
 The command-line password generator is a simple Python script that generates random passwords based on user-defined criteria such as length and character types (letters, numbers, symbols). Users can specify the length of the password and choose whether to include uppercase letters, numbers, and symbols.
-<br>
-Features
+
+##### Features
 <br>
 •	User-defined password length
 <br>
@@ -72,13 +72,13 @@ Features
 •	Option to include symbols
 <br>
 
-Advanced Version: GUI Password Generator
-<br>
-Description
+### Advanced Version: GUI Password Generator
+
+#### Description
 <br>
 The advanced password generator features a graphical user interface (GUI) built using Tkinter. It provides an intuitive interface for users to generate passwords with customizable complexity, adhering to security rules, and includes clipboard integration for easy copying.
-<br>
-Features
+
+#### Features
 <br>
 •	User-defined password length
 <br>
@@ -87,14 +87,14 @@ Features
 •	Generated password display
 <br>
 •	Button to copy the password to clipboard
-<br>
+
 ### 3) Chat Application
-<br>
-Description:
+
+#### Description:
 <br>
 The basic text-based chat application allows two users to exchange messages in real-time using the command line. This application is ideal for beginners learning socket programming and client-server communication. It uses Python's socket and threading libraries to set up a simple client-server model.
-<br>
-Important Features and Components:
+
+#### Important Features and Components:
 <br>
 •	Client-Server Architecture: Implements a basic client-server model where the server listens for incoming connections and relays messages between clients.
 <br>
@@ -107,13 +107,14 @@ Important Features and Components:
 •	Command-Line Interface: Operates through the command line, providing a straightforward and minimalistic interface.
 <br>
 
-Running the Advanced GUI-Based Chat Application in Jupyter Notebook
-<br>
-Description:
+### Advanced GUI-Based Chat Application in Jupyter Notebook
+
+#### Description:
 <br>
 The advanced GUI-based chat application provides a rich graphical interface for enhanced user experience, supporting features like message history and real-time messaging. This application is built using Python libraries such as Tkinter for the GUI and socket programming for real-time communication.
 <br>
-Important Features and Components:
+
+#### Important Features and Components:
 <br>
 •	Graphical User Interface (GUI): Developed using Tkinter, providing an intuitive and interactive interface for users.
 <br>
@@ -129,16 +130,18 @@ Important Features and Components:
 <br>
 •	These chat applications, designed for different levels of expertise, provide a comprehensive learning experience in network programming and GUI development using Python. The basic application focuses on fundamental concepts, while the advanced application incorporates additional features for a more complete and practical chat solution.
 <br>
-How to Run the Applications in Jupyter Notebook
+
+### How to Run the Applications in Jupyter Notebook
 <br>
-Basic Text-Based Chat Application:
+
+#### Basic Text-Based Chat Application:
 <br>
 •	Server Code: Run the server code cell to start the server.
 <br>
 •	Client Code: Run the client code cell to start the client.
 <br>
 	
-Advanced GUI-Based Chat Application:
+#### Advanced GUI-Based Chat Application:
 <br>
 •	Server Code: Run the server code cell. Click the "Run Server" button to start the server GUI.
 <br>
