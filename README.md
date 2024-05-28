@@ -1,6 +1,6 @@
 # OIBSIP
 ## 3 PROJECTS
-## 1) BMI Calculator | Randon Password Generator | Chat Application
+## 1= BMI Calculator 2= Randon Password Generator 3= Chat Application
 
 ## 1) BMI Calculator
 
